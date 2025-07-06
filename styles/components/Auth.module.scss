@@ -1,0 +1,19 @@
+.auth {
+  max-width: 400px;
+  margin: 5rem auto;
+  background: white;
+  padding: 2rem 3rem;
+  border-radius: 15px;
+  box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+  text-align: center;
+
+  h1 {
+    margin-bottom: 1.5rem;
+    color: #0070f3;
+  }
+
+  .error {
+    color: red;
+    margin-bottom: 1rem;
+  }
+}
